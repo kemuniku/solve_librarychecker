@@ -1,1 +1,2 @@
 # solve_librarychecker
+Nim言語でLibrary Checkerを解きます
